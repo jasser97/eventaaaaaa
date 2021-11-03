@@ -39,7 +39,7 @@
     "socket.io": "^2.3.0",
     "to-iso-string": "0.0.2",
     "uuidv4": "^6.1.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
